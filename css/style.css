@@ -56,8 +56,8 @@ h1{
     position: absolute;
     color: white;
     font-size: 7rem;
-    top: 37vh;
-    left: 25vw;
+    top: 18vh;
+    left: 19vw;
 }
 
 #main-second{
@@ -65,7 +65,7 @@ h1{
     position: absolute;
     color: white;
     font-size: 2rem;
-    top: 68vh;
+    top: 80vh;
     left: 33vw;
 }
 
@@ -604,34 +604,6 @@ footer{
 
 /*********************************************TypeWriter***************************************/
 
-.typewriter-text {
-
-  	overflow: hidden;
- 
- 	animation: typing 5s steps(30, end), blink .65s step-end infinite;
-    white-space: nowrap;
-
-    border-right: 3px solid orange;
-
-}
-
-@keyframes typing {
-    from { 
-        width: 0%; 
-    }
-    to { 
-        width: 80%; 
-    }
-}
-
-@keyframes blink {
-    from, to { 
-        border-color: transparent 
-    }
-    50% { 
-        border-color: orange; 
-    }
-}
 
 
 /*********************************************TypeWriter***************************************/

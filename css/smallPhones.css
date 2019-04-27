@@ -539,7 +539,7 @@ max-height: 600px;
  
  	animation: typing 5s steps(30, end), blink .65s step-end infinite;
     white-space: nowrap;
-
+    width: 96%;
     border-right: 3px solid orange;
     height: 20%;
     line-height: 30px;
@@ -555,7 +555,14 @@ max-height: 600px;
     }
 }
 
-
+@keyframes blink {
+    from, to { 
+        border-color: transparent 
+    }
+    50% { 
+        border-color: orange; 
+    }
+}
     
     
 }

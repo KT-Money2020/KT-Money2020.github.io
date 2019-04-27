@@ -555,6 +555,14 @@ max-height: 600px;
     
 }
 
+@keyframes blink {
+    from, to { 
+        border-color: transparent 
+    }
+    50% { 
+        border-color: orange; 
+    }
+}
     
 }
 /************Specifically Iphone plus size ************************/
