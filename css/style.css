@@ -609,3 +609,24 @@ footer{
 /*********************************************TypeWriter***************************************/
 
 
+
+.intro-text{
+    opacity:0;
+    transform: translateX(-20px);
+    transition: 1.5s all ease-in-out;
+}
+
+
+.intro-appear{
+    opacity: 1;
+    transform: translateX(0px);
+}
+
+
+
+
+
+
+
+
+
