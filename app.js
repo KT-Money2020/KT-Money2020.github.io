@@ -17,9 +17,6 @@ window.addEventListener('scroll',scrollAppear);
 
 
 
-
-
-
 function openSlideMenu(){
          //How far the menu should extend
          document.getElementById('menuAni').style.width = '200px';
