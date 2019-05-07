@@ -196,6 +196,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
  
 @media all and (min-width: 768px) and (max-width: 1024px) { 
 
@@ -235,13 +245,13 @@
     
     
 #main-logo{
-    font-size: 6rem;
+    font-size: 5rem;
     left: 9vw;
     top:30vh;
 }
     
 #main-second{
-    top: 77vh;
+    top: 73vh;
     }
 
 #main-viking-logo{
@@ -331,8 +341,24 @@
    width:30vw;
 }        
     
-    
+    #middle-h1{
+        width:25%;
+        margin-left: 37vw;
+    }    
 
+    
+#bottom #first-p{
+    font-size: 32px;
+    margin-top:8vh;
+}
+
+#bottom #second-p{
+    margin-top: 20vh;
+    width: 40%;
+    margin-left: 1vw;
+}
+    
+    
     
 #snack-header{
     margin-left: 40vw;

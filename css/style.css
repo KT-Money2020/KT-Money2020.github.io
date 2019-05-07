@@ -454,11 +454,11 @@ h1{
 }
 #bottom #first-p{
     font-size: 32px;
-    margin-top:7vh;
+    margin-top:15vh;
 }
 
 #bottom #second-p{
-    margin-top: 17vh;
+    margin-top: 27vh;
 }
 #bottom h1{
     
@@ -484,17 +484,19 @@ h1{
 
 #bottom p{
     position:absolute;
-    width: 23%;
+    width: 30%;
+    margin-left: 3vw;
+    font-size: 16px;
 }
 #bottom #third-p{
     font-size: 30px;
-    margin-top:18vh;
-    margin-left: 45vw;
+    margin-top:10vh;
+    margin-left: 50vw;
 }
 
 #bottom #fourth-p{
-   margin-top: 30vh;
-   margin-left: 40vw;
+   margin-top: 20vh;
+   margin-left: 50vw;
 }
 
 
