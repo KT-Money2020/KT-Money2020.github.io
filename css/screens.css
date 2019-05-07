@@ -7,12 +7,19 @@
      display: none;
      
 }   
+    
+    #middle-h1{
+        width:25%;
+        margin-left: 37vw;
+    }    
 }
 @media all and (min-width: 1280px) and (max-width: 1340px) { 
     
 #entireContent{ 
      display: none;
      
+    
+    
 }   
     
     
@@ -40,6 +47,11 @@
     margin-bottom: 8vh;
 }
     
+    
+    #middle-h1{
+        width:25%;
+        margin-left: 37vw;
+    }    
 
     
     
@@ -189,6 +201,11 @@
    width:24vw;
 }    
     
+    
+    #middle-h1{
+        width:25%;
+        margin-left: 37vw;
+    }        
 
 }
 
@@ -258,7 +275,7 @@
     position: absolute;
     width: 30%;
     top: 32vh;
-    left: 35.6vw;
+    left: 33.6vw;
 }
     
     
@@ -542,38 +559,189 @@
     
     
 
+#top-main h1:first-child{
+    font-family: raleway;
+    font-size: 3rem;
+}
+
+#welcome{
+    width:100%;
+    height: 400px;
+    margin-left: 0vw;
+}
     
+#top-main #first-description{
+   font-size: .95rem;
+   width: 80%;  
+   padding-left: 10vw;  
+   padding-bottom: 2.75rem;
+}
+    
+
 .coffee-1{
-   margin-left: 0vw;
-   width:32vw;
-   
+   margin: 0;
+   margin-left: 20px;
+   background-position: 40%;
+   position: relative;
+   width:90%;
+   height:55vh;
+
 }
 
 .coffee-2{
-   margin-left: 64.5vw;
-   width:33vw;
+   margin: 0;
+    margin-top: 71vh;
+   margin-left: 20px;
+   position: absolute;
+   width:90%;
+   height: 55vh;
+}    
+    
 
+
+
+#main-menu{
+
+    display: block;
+   align-items: center;
+   justify-content: center;
+   
+   align-content: center;
+    
+
+}
+    
+#main-menu p{
+
+  padding: 0;
+  margin-bottom: 1px;
+  font-weight: 450;
+  font-size: 19px;
+  margin-left: -50px;
+    
 }
 
 
-.smoothie-1{
-   margin-left: 0vw;
-
+#main-menu li{
     
-   width:33vw;
+    text-align: center;
+    margin-right: 50px;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+.smoothie-1{
+   margin: 0;
+   margin-left: 20px;
+   background-position: 40%;
+   position: relative;
+   width:94%;
+   height:55vh;
+
    
 }
 
 .smoothie-2{
-   margin-left: 64vw;
-   width:33vw;
-}        
+   margin: 0;
+   margin-top: 50vh;
+   margin-left: 20px;
+   position: absolute;
+   width:94%;
+   height: 55vh;
+    
+}    
+    
+    #first-drinks{
+
+        margin-bottom: 70vh;
+    }    
+    
+    
+    
+    
+    
+#bottom #first-p{
+    font-size: 32px;
+    margin-top:0vh;
+}
+
+#bottom #second-p{
+    margin-top: 10vh;
+    width: 45%;
+    margin-left: -3vw;
+}
+    
+        
+#bottom #third-p{
+    font-size: 30px;
+    margin-top:5vh;
+    margin-left: 55vw;
+}
+
+#bottom #fourth-p{
+   margin-top: 15vh;
+   margin-left: 50vw;
+    width:40%;
+}    
+    
+    
+    
+#bottom-img{
+    width:300px;
+    height:600px;
+    object-fit:cover;
+    margin-left: 49.6vw;
+}
+
+#bottom-imgTwo{
+    width:50%;
+    height:400px;
+    object-fit:cover;
+    margin-bottom: 15vh;
+}
+
+    
+    
+    
+    
+    
+    
+.outer h1{
+    font-weight: 300;
+    font-style: normal;
+    font-size: 40px;
+    
+}
+
+.outerTwo{
+    margin-top: 15rem;
+}
+
+.middle-text{
+    margin-top: 60vh;
+}
+
+#top-main img{
+    margin-bottom: 1rem;
+}
+
+
+
+    
+
+#top-main p{
+    text-align: center;
+    
+}    
     
     
 
     
 #snack-header{
-    margin-left: 40vw;
+    margin-left: 3vw;
 }
     
     

@@ -12,7 +12,7 @@
 #main-logo{
     font-size: 2.66rem;
     top: 43vh;
-    left: 2.5vw;
+    left: 8.5vw;
  
 }
 
@@ -437,7 +437,7 @@ max-height: 600px;
    height:50vh;
     object-fit:cover;
     margin-bottom: 15vh;
-    margin-top: 100vh;
+    margin-top: 70vh;
 }
 
     
@@ -448,15 +448,15 @@ max-height: 600px;
 }
 #bottom #third-p{
     font-size: 30px;
-    margin-left: 35vw;
-    margin-top: 153vh;
-    
+    margin-left: -6vw;
+    margin-top: 125vh;
+    width: 100%;
 }
 
 #bottom #fourth-p{
     width: 80%;
     margin-left: 5vw;
-    margin-top: 168vh;
+    margin-top: 134vh;
 
 }
 

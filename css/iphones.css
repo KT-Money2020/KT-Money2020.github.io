@@ -725,6 +725,17 @@ span{
     and (-webkit-device-pixel-ratio : 3) { 
 
 
+        
+#top-vl {
+  left: 26vw;  
+}
+        
+#vl {
+
+  left: 22vw;  
+}        
+        
+        
 .coffee-1{
    margin: 0;
    margin-left: 10px;
@@ -771,8 +782,43 @@ span{
         
         
 
+        
+        
+   
+        
+        
+#bottom-imgTwo{
+   background-position: -220px 50px;
+   width:100vw;
+   height:50vh;
+    object-fit:cover;
+    margin-bottom: 15vh;
+    margin-top: 70vh;
+}
 
+    
+#bottom p{
+    position:absolute;
+    width: 23%;
 
+}
+#bottom #third-p{
+    font-size: 30px;
+    margin-left: -5vw;
+    margin-top: 125vh;
+    width: 100%;
+}
+
+#bottom #fourth-p{
+    width: 80%;
+    margin-left: 5vw;
+    margin-top: 134vh;
+
+}
+
+#mobile-space{
+    margin-top: 60vh;
+}
 
 
 }

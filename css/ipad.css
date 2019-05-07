@@ -3,180 +3,157 @@
 /**********************For Ipad Screens ***************************/
 @media screen and (min-device-width: 481px) and (max-device-width: 768px){
   
+ #bg-img{
+   height:80vh;
+   background-position: 70%;
+}  
+#entireContent{ 
+     display: block;
     
-#main-viking-logo{
-    width: 50%;
-    top: 22vh;
-    left: 28vw;
-}
-
-
+}   
+    
+    
+    
 #main-logo{
     font-size: 5rem;
-    top: 43vh;
-    left: 8vw;
- 
+    left: 5vw;
+  
 }
-
-#main-second{
-    line-height: 3.5rem;
-    font-size: 2rem;
-    top: 66vh;
-    left: 22vw;
-}
-
-
-
-#top-viking-logo{
-    padding-top:34px;
-    padding-left: 1.10rem;
-    width:9vh;
     
+#main-second{
+    font-size: 1.75rem;
+    top: 60vh;
+    left: 35vw;
 }
 
-#top-vl {
-  border-left: 1px solid white;
-  height: 8vh;
-  left: 18vw;
-  top: 2.5vh;
+#main-viking-logo{
+    position: absolute;
+    width: 40%;
+    top: 25vh;
+    left: 29vw;
 }
+    
+    
+    
 
-#bg-img{
-    /** This is how you would position the background image on a mobile device ****/
-   background-position: -220px 50px;
-   width:100vw;
-   height:100vh;
-
-   
-
-}
-#top-menu{ 
-    width: 100%;
-    margin-top: -2vh;
-    height: 15vh;
-    margin-bottom: 15vh;
-    top: 0px;
-}
-
+    
+.pimg1 p{
+    width: 46%;
+    margin-top: 0vh;
+} 
+    
+    
+    
+    
+    
+#top-menu ul{
+    display: none;
+}    
+    
+    
+    
+    
 #top-menu p{
-    font-size: 50px;
-    left: 18vw;
+    font-size: 3rem;
+    left: 15.3vw;
 }
 
 #top-menu #top-coffee-text{
-    font-size: 1.20rem;
-    top: 8vh;
+    font-size: 1.5rem;
+    top: 7vh;
     left: 20.5vw;
 }
+    
 
-#top-menu ul{
-    display: none;
-}
-
-#top-menu ul li{
-    padding-top: 2.2rem;
-    padding-right: 2rem;
-    padding-left: 2rem;
-    font-size: .85rem;
-}
-
-
-
-
-#menu{
-    margin-top: -2vh;
-    top: 0px;
-    width: 100%;
-    height: 12vh;
-}
-#viking-logo{
-    padding-top:2.9vh;
+#top-viking-logo{
     padding-left: 1.10rem;
-    width:7vh;
+    width:9vh;
 }
-#vl {
-  height: 6vh;
-  left: 20vw;
-  top: 4vh;
-}
-#menu ul{
-    display: none;
-}
-
-#menu ul li{
-    padding-top: 1.2rem;
-    padding-right: 2rem;
-    padding-left: 2rem;
-}
-
+    
+    
+    
+    
 #menu p{
-    font-size: 30px;
-    left: 19vw;
+    font-size: 2.5rem;
+    left: 15.3vw;
+    top:8px;
 }
 
 #menu #coffee-text{
+    font-size: 1.1rem;
     top: 4vh;
-    left: 24vw;
+    left: 14.5vw;
 }
-
     
 
-#fruits{
- 
-   height:70vh;
-   margin-top: -90px;
-   margin-bottom: -50px;    
+      
+    
+    
+    
+    
+#menu ul{
+    display: none;
+}        
+    
+    
+#main-menu{
+
+    width: 105%;
+    margin-left: 0vw;
+    margin-top: 5vh;
 }    
-
-    
-    
-    
-
-    
-/*************************** This is the mid section now**************************/    
-    
-    
-    
-    
-    
-
-#front{
-    display: flex;
-    justify-content: space-around;
-
+ 
+#menu p{
+    left: 10.3vw;
 }
 
+
+
+
+
+
+#top-vl {
+  border-left: 1px solid white;
+  height: 6vh;
+  position: absolute;
+  left: 17vw;
+  top: 3.2vh;
+}    
+    
+#viking-logo{
+    position: absolute;
+    padding-top:20px;
+    padding-left: 1.10rem;
+    width:6vh;
+}
+
+#vl {
+  border-left: 1px solid white;
+  height: 4vh;
+  position: absolute;
+  left: 13vw;
+  top: 3.5vh;
+}        
+    
+    
+    
 #front img{
     
-    width: 25%;
-    height: 40vh;
-    margin-top: 8vh;
+    width: 33.33%;
+
 }
 
 
 #front-three{
-    margin-left: 20vw;
-    object-fit:cover;
-    object-position:50% 50%;
-    height: 80vh;
-   
+    margin-left: 0vw;
+    width:100%;
+    margin-bottom: 8vh;
 }
-
-
-
-
-#white-block{
-    position: relative;
-    margin-top: -1.3vh;
-    width:98.9vw;
-    height: 11px;
-    background: #a4b0be;
-}
-
-
-
-
-
+    
+    
+    
+    
+    
 
 #top-main h1:first-child{
     font-family: raleway;
@@ -198,52 +175,54 @@
     
 
 .coffee-1{
-    display: flex;
-   margin-left: 0vw;
-   margin-top: 0vh;
+   margin: 0;
+   margin-left: 20px;
    background-position: 40%;
    position: relative;
-   width:50%;
-   height:27vh;
+   width:90%;
+   height:55vh;
 
 }
 
 .coffee-2{
-    
-   margin-left: 50vw;
-   margin-top: -27vh;
-   background-position: 48%;
-   position: relative;
-   width:50vw;
+   margin: 0;
+    margin-top: 71vh;
+   margin-left: 20px;
+   position: absolute;
+   width:90%;
+   height: 55vh;
 }    
+    
 
 
 
 #main-menu{
+
     display: block;
-    width: 100%;
-    margin-left: 0vw;
-    margin-bottom: 5rem;
+   align-items: center;
+   justify-content: center;
+   
+   align-content: center;
+    
 
 }
     
 #main-menu p{
-  text-align: left;
+
   padding: 0;
   margin-bottom: 1px;
   font-weight: 450;
   font-size: 19px;
   margin-left: -50px;
+    
 }
 
 
 #main-menu li{
+    
     text-align: center;
-    list-style: none;
     margin-right: 50px;
     margin-bottom: 40px;
-    line-height: 1.45rem;
-    font-size: .970rem;
 }
 
 
@@ -251,23 +230,78 @@
 
 
 .smoothie-1{
-   margin-left: 0vw;
-   margin-top: -12vh;
+   margin: 0;
+   margin-left: 20px;
+   background-position: 40%;
    position: relative;
-   width:50%;
-   background-position: 33%;
-   height:27vh;
-   background-size: cover;
+   width:94%;
+   height:55vh;
+
    
 }
 
 .smoothie-2{
-   margin-left: 50vw;
-   margin-top: -27vh;
-   position: relative;
-   width:50%;
-   background-position: 35%;
+   margin: 0;
+   margin-top: 50vh;
+   margin-left: 20px;
+   position: absolute;
+   width:94%;
+   height: 55vh;
+    
 }    
+    
+    #first-drinks{
+
+        margin-bottom: 70vh;
+    }    
+    
+    
+    
+    
+    
+#bottom #first-p{
+    font-size: 32px;
+    margin-top:0vh;
+}
+
+#bottom #second-p{
+    margin-top: 10vh;
+    width: 45%;
+    margin-left: -3vw;
+}
+    
+        
+#bottom #third-p{
+    font-size: 30px;
+    margin-top:5vh;
+    margin-left: 55vw;
+}
+
+#bottom #fourth-p{
+   margin-top: 15vh;
+   margin-left: 50vw;
+    width:40%;
+}    
+    
+    
+    
+#bottom-img{
+    width:386px;
+    height:600px;
+    object-fit:cover;
+    margin-left: 49.6vw;
+}
+
+#bottom-imgTwo{
+    width:50%;
+    height:400px;
+    object-fit:cover;
+    margin-bottom: 15vh;
+}
+
+    
+    
+    
     
     
     
@@ -283,7 +317,7 @@
 }
 
 .middle-text{
-    margin-top: 6vh;
+    margin-top: 60vh;
 }
 
 #top-main img{
@@ -292,11 +326,32 @@
 
 
 
+    
 
 #top-main p{
     text-align: center;
     
 }    
+    
+    
+
+    
+#snack-header{
+    margin-left: 3vw;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -394,74 +449,11 @@ max-height: 600px;
     
 /**************************Bottom *****************************/
     
-    
-#bottom p{
-    position:absolute;
-    width: 23%;
-}
-#bottom #first-p{
-    font-size: 35px;
-    margin-top:53vh;
-    width: 80%;
-}
-
-#bottom #second-p{
-    margin-top: 63vh;
-    position: absolute;
-    width: 80%;
-}
-
-#bottom-img{
-   background-position: -220px 50px;
-   width:100vw;
-   height:50vh;
-    margin-left: 0vw;
-    
-}
-
-    
-    
-    
-    
-    
-    
-    
-    
-#bottom-imgTwo{
-   background-position: -220px 50px;
-   width:100vw;
-   height:50vh;
-    object-fit:cover;
-    margin-bottom: 15vh;
-    margin-top: 100vh;
-}
-
-    
-#bottom p{
-    position:absolute;
-    width: 23%;
-
-}
-#bottom #third-p{
-    font-size: 30px;
-    margin-left: 35vw;
-    margin-top: 153vh;
-    
-}
-
-#bottom #fourth-p{
-    width: 80%;
-    margin-left: 5vw;
-    margin-top: 168vh;
-
-}
-
-
 
 
 
 #mobile-space{
-    margin-top: 90vh;
+    margin-top: 15vh;
 }
 
 
