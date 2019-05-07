@@ -61,19 +61,29 @@
 
     
 #top-vl {
-  left: 7vw;
+  left: 8vw;
 }
     
 #top-menu #top-coffee-text{
-    left: 4.5vw;
+    left: 6.5vw;
 }    
     
 #top-menu p{
-    left: 3.5vw;
+    left: 4.5vw;
 }    
     
     
+#vl {
+  left: 8vw;
+}
     
+#menu #coffee-text{
+    left: 5.5vw;
+}    
+    
+#menu p{
+    left: 4.3vw;
+}            
     
     
     
@@ -197,19 +207,30 @@
     
     
 #top-vl {
-  left: 8vw;
+  left: 9vw;
 }
     
 #top-menu #top-coffee-text{
-    left: 5.5vw;
+    left: 7.5vw;
 }    
     
 #top-menu p{
-    left: 4.3vw;
+    left: 6.3vw;
 }    
     
     
+
+#vl {
+  left: 10vw;
+}
     
+#menu #coffee-text{
+    left: 8.5vw;
+}    
+    
+#menu p{
+    left: 6.3vw;
+}        
     
     
     
@@ -323,6 +344,35 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 @media all and (min-width: 480px) and (max-width: 768px) {
 #entireContent{ 
@@ -430,6 +480,30 @@
     
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 @media all and (max-width: 480px) { 
     
