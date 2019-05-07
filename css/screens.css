@@ -373,35 +373,59 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 @media all and (min-width: 480px) and (max-width: 768px) {
 #entireContent{ 
-     display: none;
-     
+     display: block;
+    
 }   
     
     
     
 #main-logo{
-    font-size: 6rem;
-    left: 4vw;
-    top:45vh;
+    font-size: 4rem;
+    left: 11vw;
+    top:40vh;
 }
     
 #main-second{
-    top: 80vh;
-    }
+    font-size: 1.75rem;
+    top: 75vh;
+    left: 28vw;
+}
 
 #main-viking-logo{
     position: absolute;
-    width: 37%;
-    top: 30vh;
-    left: 32vw;
+    width: 35%;
+    top: 33vh;
+    left: 33vw;
 }
+    
+    
     
 
     
-  .pimg1 p{
+.pimg1 p{
     width: 46%;
     margin-top: 0vh;
 } 
@@ -410,6 +434,13 @@
     
     
     
+#top-menu ul{
+    display: none;
+}    
+    
+#menu ul{
+    display: none;
+}        
     
     
 #main-menu{
@@ -419,7 +450,51 @@
     margin-top: 5vh;
 }    
  
+
+#top-menu p{
+
+    left: 10.3vw;
+}
+
+#top-menu #top-coffee-text{
+    top: 6.3vh;
+    left: 12.5vw;
+}
     
+#menu p{
+    left: 10.3vw;
+}
+
+#menu #coffee-text{
+    top: 4vh;
+    left: 12.5vw;
+}
+        
+    
+
+
+#top-vl {
+  border-left: 1px solid white;
+  height: 6vh;
+  position: absolute;
+  left: 12vw;
+  top: 3.2vh;
+}    
+    
+#viking-logo{
+    position: absolute;
+    padding-top:20px;
+    padding-left: 1.10rem;
+    width:7vh;
+}
+
+#vl {
+  border-left: 1px solid white;
+  height: 6vh;
+  position: absolute;
+  left: 12vw;
+  top: 3.5vh;
+}        
     
     
     
@@ -480,6 +555,29 @@
     
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
