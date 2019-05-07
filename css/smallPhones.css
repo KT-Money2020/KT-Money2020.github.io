@@ -201,77 +201,85 @@
     
 
 .coffee-1{
-    display: flex;
-   margin-left: 0vw;
-   margin-top: 0vh;
+   margin: 0;
+   margin-left: 20px;
    background-position: 40%;
    position: relative;
-   width:50%;
-   height:27vh;
+   width:90%;
+   height:35vh;
 
 }
 
 .coffee-2{
-    
-   margin-left: 50vw;
-   margin-top: -27vh;
-   background-position: 48%;
-   position: relative;
-   width:50vw;
+   margin: 0;
+   margin-top: 95vh;
+   margin-left: 20px;
+   position: absolute;
+   width:90%;
+   height: 40vh;
 }    
+    
 
 
 
 #main-menu{
+
     display: block;
-    width: 100%;
-    margin-left: 0vw;
-    margin-bottom: 5rem;
+   align-items: center;
+   justify-content: center;
+   
+   align-content: center;
+    
 
 }
     
 #main-menu p{
-  text-align: left;
+
   padding: 0;
   margin-bottom: 1px;
   font-weight: 450;
   font-size: 19px;
   margin-left: -50px;
+    
 }
 
 
 #main-menu li{
+    
     text-align: center;
-    list-style: none;
     margin-right: 50px;
     margin-bottom: 40px;
-    line-height: 1.45rem;
-    font-size: .970rem;
 }
+
 
 
 
 
 
 .smoothie-1{
-   margin-left: 0vw;
-   margin-top: -12vh;
+   margin: 0;
+   margin-left: 20px;
+   background-position: 40%;
    position: relative;
-   width:50%;
-   background-position: 33%;
-   height:27vh;
-   background-size: cover;
+   width:90%;
+   height:35vh;
+
    
 }
 
 .smoothie-2{
-   margin-left: 50vw;
-   margin-top: -27vh;
-   position: relative;
-   width:50%;
-   background-position: 35%;
+   margin: 0;
+   margin-top: 80vh;
+   margin-left: 20px;
+   position: absolute;
+   width:90%;
+   height: 40vh;
 }    
     
+    
+      #first-drinks{
+        margin-bottom: 60vh;
+    }    
     
     
 .outer h1{
@@ -286,7 +294,7 @@
 }
 
 .middle-text{
-    margin-top: 6vh;
+    margin-top: 60vh;
 }
 
 #top-main img{
@@ -362,7 +370,7 @@
 }
 
 #front img{
-    width: 49.41%;
+    width: 49.33%;
     height: 25vh;
     margin: 0px;
     padding: 0px;

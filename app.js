@@ -20,14 +20,32 @@ window.addEventListener('scroll',scrollAppear);
 function openSlideMenu(){
          //How far the menu should extend
          document.getElementById('menuAni').style.width = '200px';
-         document.getElementById('entireContent').style.marginRight = '250px';
+         document.getElementById('entireContent').style.marginLeft = '90px';
      }
         
 function closeSlideMenu(){
          document.getElementById('menuAni').style.width = '0';
-         document.getElementById('entireContent').style.marginRight = '0';
+         document.getElementById('entireContent').style.marginLeft = '0';
      }        
 
 
 
+//Preloader
+$(document).ready(function() {
+ 
+  // Fakes the loading setting a timeout
+    setTimeout(function() {
+        $('body').addClass('loaded');
+    }, 3500);
+ 
+});
+$(document).ready(function(){
+    $('html, body').scrollTop(0);
+
+    $(window).on('load', function() {
+    setTimeout(function(){
+        $('html, body').scrollTop(0);
+    }, 0);
+ });
+});
 

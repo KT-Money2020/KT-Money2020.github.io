@@ -7,6 +7,9 @@
 font-family: "Cassandra Personal Use";
 src: url("../fonts/cassandra.ttf");
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body{
     font-family: "Segoe UI";
@@ -405,7 +408,7 @@ h1{
 /*********************************PARALLAX**************************************/
 		
 		
-    .pimg1{
+.pimg1{
     margin-top: 20vh;    
 	position: relative;
 	background-position: center;
@@ -447,9 +450,10 @@ h1{
 #bottom p{
     position:absolute;
     width: 23%;
+    
 }
 #bottom #first-p{
-    font-size: 35px;
+    font-size: 32px;
     margin-top:7vh;
 }
 
@@ -684,6 +688,153 @@ footer{
     background-color: black;
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#loader-wrapper .loader-section {
+  position: fixed;
+  top: 0;
+  width: 51%;
+  height: 100%;
+  background:grey;
+  z-index: 10;
+}
+
+
+
+#loader-wrapper .loader-section.section-right {
+  right: 0;
+}
+
+
+
+.loaded #loader-wrapper {
+  visibility: hidden;
+  transform: translateY(-100%);
+    
+}
+
+
+#loader-wrapper p{
+ 
+    font-size: 2.5rem;
+    color: white;
+    margin-top: -80px;
+    margin-left: -220px;
+    z-index: 999;
+    padding: 0;
+}
+
+
+
+
+.viking-cup{
+    background-image: url(../img/cup.jpg);
+    position: absolute;
+    top:5%;
+    left:15%;
+    width: 25%;
+    height: 45%;
+
+    background-position: center;
+	background-size: cover;
+
+    object-position:50% 50%;
+    
+
+    z-index: 3333;
+}
+
+
+.cup{
+    height:140px;
+    width:180px;
+    position: fixed;
+    border: 6px solid #efb54a;
+    margin-left:20vw;
+    border-radius: 0px 0px 70px 70px;
+    background:url(../img/coffee.png);
+    box-shadow: 0px 0px 0px 6px white;
+    
+    background-repeat: repeat-x;
+    background-position: 0px 140px;
+    animation: fill 6s infinite;
+    z-index: 11111;
+}
+
+@keyframes fill{
+    0%{
+        background-position: 0px 140px;
+    }
+    
+    20%{
+        background-position: -450px 100px;
+    }
+    40%{
+        background-position: -900px 50px;
+    }
+    80%{
+        background-position: -1350px -40px;
+    }
+    
+    100%{
+        background-position: 0px 140px;
+    }
+    
+}
+
+
+.handle{
+    height: 70px;
+    width: 40px;
+    background-color: transparent;
+    border: 6px solid white;
+    position: relative;
+    left: 186px;
+    top: 5px;
+    border-radius: 0px 25px 80px 0px;
+    z-index: 11111;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
