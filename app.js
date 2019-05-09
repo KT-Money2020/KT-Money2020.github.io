@@ -53,3 +53,19 @@ $(document).ready(function(){
  });
 });
 
+
+
+//Makes it so that when you click somewhere else the navigation bar closes
+
+ $(document).click(function(e) {
+if ( $(e.target).closest('#entireContent').length === 0 ) {
+    
+$('#entireContent').click(closeSlideMenu());
+    
+}
+});
+
+
+
+
+
