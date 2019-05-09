@@ -341,19 +341,22 @@
         
 }
 .pimg1{
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0),rgba(0, 0, 0, 0), rgba(247, 215, 148,1.0),rgba(247, 215, 148,1.0)), url('../img/waffle.jpg');
-	min-height: 590px;
+    background-image:        linear-gradient(
+          rgba(0, 0, 0, 0.3), 
+          rgba(0, 0, 0, 0.3)
+        ), url('../img/waffle.jpg');
+	min-height: 300px;
+   
 }
+
 
 
 .pimg1 p{
     color: white;
-    font-size: 1rem;
-    width: 100%;
-    float:right;
-    margin-top: 5vh;
+    font-size: 2rem;
+    width: 80%;
+    margin-top: -10vh;
 }
-
 
 
 /*********************************PARALLAX**************************************/

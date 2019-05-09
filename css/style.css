@@ -442,10 +442,10 @@ a{
 
 
 .pimg1 p{
-    font-size: 1rem;
-    width: 30%;
     float:right;
-    margin-top: 12vh;
+    font-size: 50px;
+    line-height: 100px;
+    padding-top: 20vh;
 }
 
 
@@ -614,7 +614,6 @@ footer{
     transform: translateX(-20px);
     transition: 1.5s all ease-in-out;
 }
-
 
 .intro-appear{
     opacity: 1;
