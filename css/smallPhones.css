@@ -455,9 +455,9 @@ max-height: 600px;
 }
 #bottom #third-p{
     font-size: 30px;
-    margin-left: 35vw;
-    margin-top: 135vh;
-    
+    margin-left: -6vw;
+    margin-top: 138vh;
+    width: 100%;
 }
 
 #bottom #fourth-p{
