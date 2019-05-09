@@ -30,6 +30,10 @@ function closeSlideMenu(){
 
 
 
+
+
+
+
 //Preloader
 $(document).ready(function() {
  

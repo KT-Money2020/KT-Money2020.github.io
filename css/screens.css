@@ -8,7 +8,7 @@
      
 }   
     
-    #middle-h1{
+#middle-h1{
         width:25%;
         margin-left: 37vw;
     }    
@@ -305,7 +305,7 @@
     margin-top: 5vh;
 }    
  
-    
+
     
     
 #front{
@@ -377,9 +377,7 @@
     
     
     
-#snack-header{
-    margin-left: 40vw;
-}
+
     
 }
 
@@ -443,7 +441,10 @@
     
 }   
     
-    
+.slide a {
+    font-size: 66px;
+    margin-left:50px;
+}    
     
 #main-logo{
     font-size: 4rem;
@@ -541,18 +542,24 @@
     
     
     
+#front{
+    flex-wrap: wrap;
+}
 #front img{
     
-    width: 33.33%;
+    width: 50%;
 
 }
 
 
 #front-three{
+    
     margin-left: 0vw;
     width:100%;
     margin-bottom: 8vh;
 }
+
+
     
     
     
@@ -707,7 +714,7 @@
     
     
     
-    
+
     
 .outer h1{
     font-weight: 300;
@@ -716,6 +723,7 @@
     
 }
 
+    
 .outerTwo{
     margin-top: 15rem;
 }
