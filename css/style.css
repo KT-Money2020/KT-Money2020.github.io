@@ -138,6 +138,10 @@ h1{
     justify-content: flex-end;
 }
 
+a{
+    text-decoration: none !important;
+        color: #ffda79;
+}
 #top-menu ul li{
     list-style-type: none;
     padding-top: 2.2rem;
