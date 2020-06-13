@@ -1,0 +1,319 @@
+@media screen and (min-device-width:481px) and (max-device-width:768px) {
+    #bg-img {
+        height: 80vh;
+        background-position: 70%
+    }
+    #entireContent {
+        display: block
+    }
+    .slide a {
+        font-size: 66px;
+        margin-left: 50px
+    }
+    #main-logo {
+        font-size: 5rem;
+        left: 5vw
+    }
+    #main-second {
+        font-size: 1.75rem;
+        top: 60vh;
+        left: 35vw
+    }
+    #main-viking-logo {
+        position: absolute;
+        width: 40%;
+        top: 25vh;
+        left: 29vw
+    }
+    .pimg1 p {
+        width: 46%;
+        margin-top: 0
+    }
+    #top-menu ul {
+        display: none
+    }
+    #top-menu p {
+        font-size: 3rem;
+        left: 15.3vw
+    }
+    #top-menu #top-coffee-text {
+        font-size: 1.5rem;
+        top: 7vh;
+        left: 20.5vw
+    }
+    #top-viking-logo {
+        padding-left: 1.1rem;
+        width: 9vh
+    }
+    #menu p {
+        font-size: 2.5rem;
+        left: 15.3vw;
+        top: 8px
+    }
+    #menu #coffee-text {
+        font-size: 1.1rem;
+        top: 4vh;
+        left: 14.5vw
+    }
+    #menu ul {
+        display: none
+    }
+    #main-menu {
+        width: 105%;
+        margin-left: 0;
+        margin-top: 5vh
+    }
+    #menu p {
+        left: 10.3vw
+    }
+    #top-vl {
+        border-left: 1px solid #fff;
+        height: 6vh;
+        position: absolute;
+        left: 17vw;
+        top: 3.2vh
+    }
+    #viking-logo {
+        position: absolute;
+        padding-top: 20px;
+        padding-left: 1.1rem;
+        width: 6vh
+    }
+    #vl {
+        border-left: 1px solid #fff;
+        height: 4vh;
+        position: absolute;
+        left: 13vw;
+        top: 3.5vh
+    }
+    /*****/
+#front-six{
+    width:30%;
+    justify-content: space-around;
+    padding: .95%;
+}
+/*****/
+    #front img {
+        width: 33.33%
+    }
+    #front-three {
+        margin-left: 0;
+        width: 100%;
+        margin-bottom: 8vh
+    }
+    #top-main h1:first-child {
+        font-family: raleway;
+        font-size: 3rem
+    }
+    #welcome {
+        width: 100%;
+        height: 400px;
+        margin-left: 0
+    }
+    #top-main #first-description {
+        font-size: .95rem;
+        width: 80%;
+        padding-left: 10vw;
+        padding-bottom: 2.75rem
+    }
+    .coffee-1 {
+        margin: 0;
+        margin-left: 20px;
+        background-position: 40%;
+        position: relative;
+        width: 95%;
+        height: 55vh
+    }
+    .coffee-2 {
+        margin: 0;
+        margin-top: 71vh;
+        margin-left: 20px;
+        position: absolute;
+        width: 95%;
+        height: 55vh
+    }
+    #main-menu {
+        display: block;
+        align-items: center;
+        justify-content: center;
+        align-content: center
+    }
+    #main-menu p {
+        padding: 0;
+        margin-bottom: 1px;
+        font-weight: 450;
+        font-size: 19px;
+        margin-left: -50px
+    }
+    #main-menu li {
+        text-align: center;
+        margin-right: 50px;
+        margin-bottom: 40px
+    }
+    .smoothie-1 {
+        margin: 0;
+        margin-left: 20px;
+        background-position: 40%;
+        position: relative;
+        width: 94%;
+        height: 55vh
+    }
+    .smoothie-2 {
+        margin: 0;
+        margin-top: 50vh;
+        margin-left: 20px;
+        position: absolute;
+        width: 94%;
+        height: 55vh
+    }
+    #first-drinks {
+        margin-bottom: 70vh
+    }
+    #bottom #first-p {
+        font-size: 32px;
+        margin-top: 0
+    }
+    #bottom #second-p {
+        margin-top: 10vh;
+        width: 45%;
+        margin-left: -3vw
+    }
+    #bottom #third-p {
+        font-size: 30px;
+        margin-top: 5vh;
+        margin-left: 55vw
+    }
+    #bottom #fourth-p {
+        margin-top: 15vh;
+        margin-left: 50vw;
+        width: 40%
+    }
+    #bottom-img {
+        width: 386px;
+        height: 600px;
+        object-fit: cover;
+        margin-left: 49.6vw
+    }
+    #bottom-imgTwo {
+        width: 50%;
+        height: 400px;
+        object-fit: cover;
+        margin-bottom: 15vh
+    }
+    .outer h1 {
+        font-weight: 300;
+        font-style: normal;
+        font-size: 40px
+    }
+    .outerTwo {
+        margin-top: 15rem
+    }
+    .middle-text {
+        margin-top: 60vh
+    }
+    #top-main img {
+        margin-bottom: 1rem
+    }
+    #top-main p {
+        text-align: center
+    }
+    #snack-header {
+        margin-left: 3vw
+    }
+    .pimg1 {
+        margin-top: 20vh;
+        position: relative;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed
+    }
+    .pimg1 {
+        background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(../img/waffle.jpg);
+        min-height: 300px
+    }
+    .pimg1 p {
+        color: #fff;
+        font-size: 2rem;
+        width: 80%;
+        margin-top: -10vh
+    }
+    #front {
+        display: block
+    }
+    #front img {
+        width: 49.41%;
+        height: 25vh;
+        margin: 0;
+        padding: 0
+    }
+    #front-four {
+        display: none
+    }
+    #front-three {
+        margin-left: 0;
+        margin-bottom: 0!important;
+        width: 100%;
+        height: 100%;
+        max-width: 800px;
+        max-height: 600px
+    }
+    .para p {
+        font-size: 1rem;
+        width: 80%;
+        padding-left: 10vw
+    }
+    #mobile-space {
+        margin-top: 15vh
+    }
+    #last-description {
+        margin-top: 5vh;
+        margin-bottom: 30vh
+    }
+    #last-description p {
+        margin-left: 10vw;
+        width: 80%;
+        padding: 0
+    }
+    #last-description h2 {
+        margin-left: 10vw;
+        width: 80%
+    }
+    #coffee-farm {
+        width: 100vw;
+        height: 50vh;
+        margin-top: 0;
+        margin-left: 0
+    }
+    #fruits {
+        background-image: url(../img/fruits.jpg);
+        height: 70vh;
+        background-position: 50%;
+        background-size: contain;
+        background-repeat: no-repeat
+    }
+    #final {
+        font-size: 80px;
+        overflow-wrap: break-word
+    }
+    .typewriter-text {
+        overflow: hidden;
+        animation: typing 5s steps(30, end), blink .65s step-end infinite;
+        white-space: nowrap;
+        border-right: 3px solid orange;
+        height: 20%;
+        line-height: 30px
+    }
+    @keyframes typing {
+        from {
+            width: 0%
+        }
+        to {
+            width: 98%
+        }
+    }
+}
+
+.block p {
+    font-size: 35px
+}
