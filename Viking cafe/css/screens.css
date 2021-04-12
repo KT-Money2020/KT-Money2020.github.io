@@ -10,6 +10,17 @@
     margin-left: 48vw;
 
 }
+#main-logo {
+    font-size: 4rem;
+    left: 30vw;
+    top:40%;
+}
+#main-viking-logo {
+    position: absolute;
+    width: 22%;
+    top: 26vh;
+    left: 38vw
+}
 }
 
 @media all and (min-width:1280px) and (max-width:1340px) {
@@ -17,7 +28,9 @@
         display: none
     }
     #main-logo {
-        left: 13vw
+        font-size: 4rem;
+        left: 30vw;
+        top:40%;
     }
     #main-viking-logo {
         position: absolute;
@@ -72,7 +85,9 @@
         left: 4.3vw
     }
     #main-logo {
-        left: 10%
+        font-size: 4rem;
+        left: 30vw;
+        top:40%;
     }
     #main-viking-logo {
         position: absolute;
@@ -104,7 +119,7 @@
 }
 /*****/
     #front img {
-        width: 32%
+        width: 32%;
     }
     #front-three {
         margin-left: 12vw;
@@ -112,23 +127,23 @@
     }
     .coffee-1 {
         margin-left: 12.5vw;
-        width: 24vw
+        width: 24vw;
     }
     .coffee-2 {
         margin-left: 66vw;
-        width: 24vw
+        width: 24vw;
     }
     .smoothie-1 {
         margin-left: 12.5vw;
-        width: 24vw
+        width: 24vw;
     }
     .smoothie-2 {
         margin-left: 66vw;
-        width: 24vw
+        width: 24vw;
     }
     #middle-h1 {
         width: 25%;
-        margin-left: 37vw
+        margin-left: 37vw;
     }
     
     #insta-icon{
@@ -139,53 +154,54 @@
 
 @media all and (min-width:768px) and (max-width:1024px) {
     #entireContent {
-        display: none
+        display: none;
     }
     #top-vl {
-        left: 9vw
+        left: 9vw;
     }
     #top-menu #top-coffee-text {
-        left: 7.5vw
+        left: 7.5vw;
     }
     #top-menu p {
-        left: 6.3vw
+        left: 6.3vw;
     }
     #vl {
-        left: 10vw
+        left: 10vw;
     }
     #menu #coffee-text {
-        left: 8.5vw
+        left: 8.5vw;
     }
     #menu p {
-        left: 6.3vw
+        left: 6.3vw;
     }
     #main-logo {
-        font-size: 5rem;
-        left: 9vw;
-        top: 30vh
+        font-size: 4rem;
+        left: 15vw;
+        top:40%;
     }
+
     #main-second {
-        top: 73vh
+        top: 73vh;
     }
     #main-viking-logo {
         position: absolute;
-        width: 30%;
-        top: 32vh;
-        left: 33.6vw
+        width: 35%;
+        top: 26vh;
+        left: 30vw;
     }
     #welcome {
         width: 70%;
         height: 650px;
-        margin-left: 15vw
+        margin-left: 15vw;
     }
     .pimg1 p {
         width: 36%;
-        margin-top: 1vh
+        margin-top: 1vh;
     }
     #main-menu {
         width: 95%;
         margin-left: 3.5vw;
-        margin-top: 5vh
+        margin-top: 5vh;
     }
     #front {
         flex-wrap: wrap
@@ -215,7 +231,7 @@
     }
     #middle-h1 {
         width: 25%;
-        margin-left: 37vw
+        margin-left: 37vw;
     }
     #bottom #first-p {
         font-size: 32px;
@@ -241,38 +257,41 @@
     padding: .95%;
 }
 /*****/
+    h3 {
+        font-size: 3rem;
+    }
     #entireContent {
-        display: block
+        display: block;
     }
     .slide a {
         font-size: 66px;
-        margin-left: 50px
+        margin-left: 50px;
     }
     #main-logo {
         font-size: 4rem;
-        left: 11vw;
-        top: 40vh
+        left: 14vw;
+        top: 45vh;
     }
     #main-second {
         font-size: 1.75rem;
-        top: 75vh;
-        left: 28vw
+        top: 65vh;
+        left: 25vw;
     }
     #main-viking-logo {
         position: absolute;
         width: 35%;
         top: 33vh;
-        left: 33vw
+        left: 30vw;
     }
     .pimg1 p {
         width: 46%;
-        margin-top: 0
+        margin-top: 0;
     }
     #top-menu ul {
-        display: none
+        display: none;
     }
     #menu ul {
-        display: none
+        display: none;
     }
     #main-menu {
         width: 105%;
