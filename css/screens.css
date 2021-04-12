@@ -1,1 +1,476 @@
-@media all and (min-width:1340px) and (max-width:2000px){#entireContent{display:none}#middle-h1{width:25%;margin-left:37vw}#insta-icon{margin-left:48vw}}@media all and (min-width:1280px) and (max-width:1340px){#entireContent{display:none}#main-logo{left:13vw}#main-viking-logo{position:absolute;width:22%;top:26vh;left:38vw}#front img{width:33%}#front-three{margin-left:15vw;margin-bottom:8vh}#middle-h1{width:25%;margin-left:37vw}#insta-icon{margin-left:48vw}}@media all and (min-width:1024px) and (max-width:1280px){#entireContent{display:none}#top-vl{left:8vw}#top-menu #top-coffee-text{left:6.5vw}#top-menu p{left:4.5vw}#vl{left:8vw}#menu #coffee-text{left:5.5vw}#menu p{left:4.3vw}#main-logo{left:10%}#main-viking-logo{position:absolute;width:25%;top:24vh;left:38vw}#welcome{width:80%;height:650px;margin-left:10vw}#main-menu{display:flex;width:90%;margin-left:9vw;margin-bottom:5rem;color:#000}.pimg1 p{width:33%;margin-top:5vh}#front img{width:32%}#front-three{margin-left:12vw;margin-bottom:8vh}.coffee-1{margin-left:12.5vw;width:24vw}.coffee-2{margin-left:66vw;width:24vw}.smoothie-1{margin-left:12.5vw;width:24vw}.smoothie-2{margin-left:66vw;width:24vw}#middle-h1{width:25%;margin-left:37vw}#insta-icon{margin-left:48vw}}@media all and (min-width:768px) and (max-width:1024px){#entireContent{display:none}#top-vl{left:9vw}#top-menu #top-coffee-text{left:7.5vw}#top-menu p{left:6.3vw}#vl{left:10vw}#menu #coffee-text{left:8.5vw}#menu p{left:6.3vw}#main-logo{font-size:5rem;left:9vw;top:30vh}#main-second{top:73vh}#main-viking-logo{position:absolute;width:30%;top:32vh;left:33.6vw}#welcome{width:70%;height:650px;margin-left:15vw}.pimg1 p{width:36%;margin-top:1vh}#main-menu{width:95%;margin-left:3.5vw;margin-top:5vh}#front{flex-wrap:wrap}#front img{width:50%}#front-three{margin-left:1.5vw;margin-bottom:8vh}.coffee-1{margin-left:5.5vw;width:28vw}.coffee-2{margin-left:66vw;width:30vw}.smoothie-1{margin-left:5.5vw;width:28vw}.smoothie-2{margin-left:66vw;width:30vw}#middle-h1{width:25%;margin-left:37vw}#bottom #first-p{font-size:32px;margin-top:8vh}#bottom #second-p{margin-top:20vh;width:40%;margin-left:1vw}#insta-icon{margin-left:48vw}}@media all and (min-width:480px) and (max-width:768px){#entireContent{display:block}.slide a{font-size:66px;margin-left:50px}#main-logo{font-size:4rem;left:11vw;top:40vh}#main-second{font-size:1.75rem;top:75vh;left:28vw}#main-viking-logo{position:absolute;width:35%;top:33vh;left:33vw}.pimg1 p{width:46%;margin-top:0}#top-menu ul{display:none}#menu ul{display:none}#main-menu{width:105%;margin-left:0;margin-top:5vh}#top-menu p{left:10.3vw}#top-menu #top-coffee-text{top:6.3vh;left:12.5vw}#menu p{left:10.3vw}#menu #coffee-text{top:4vh;left:12.5vw}#top-vl{border-left:1px solid #fff;height:6vh;position:absolute;left:12vw;top:3.2vh}#viking-logo{position:absolute;padding-top:20px;padding-left:1.1rem;width:7vh}#vl{border-left:1px solid #fff;height:6vh;position:absolute;left:12vw;top:3.5vh}#front{flex-wrap:wrap}#front img{width:50%}#front-three{margin-left:0;width:100%;margin-bottom:8vh}#top-main h1:first-child{font-family:raleway;font-size:3rem}#welcome{width:100%;height:400px;margin-left:0}#top-main #first-description{font-size:.95rem;width:80%;padding-left:10vw;padding-bottom:2.75rem}.coffee-1{margin:0;margin-left:20px;background-position:40%;position:relative;width:90%;height:55vh}.coffee-2{margin:0;margin-top:71vh;margin-left:20px;position:absolute;width:90%;height:55vh}#main-menu{display:block;align-items:center;justify-content:center;align-content:center}#main-menu p{padding:0;margin-bottom:1px;font-weight:450;font-size:19px;margin-left:-50px}#main-menu li{text-align:center;margin-right:50px;margin-bottom:40px}.smoothie-1{margin:0;margin-left:20px;background-position:40%;position:relative;width:94%;height:55vh}.smoothie-2{margin:0;margin-top:50vh;margin-left:20px;position:absolute;width:94%;height:55vh}#first-drinks{margin-bottom:70vh}#bottom #first-p{font-size:32px;margin-top:0}#bottom #second-p{margin-top:10vh;width:45%;margin-left:-3vw}#bottom #third-p{font-size:30px;margin-top:5vh;margin-left:55vw}#bottom #fourth-p{margin-top:15vh;margin-left:50vw;width:40%}#bottom-img{width:300px;height:600px;object-fit:cover;margin-left:49.6vw}#bottom-imgTwo{width:50%;height:400px;object-fit:cover;margin-bottom:15vh}.outer h1{font-weight:300;font-style:normal;font-size:40px}.outerTwo{margin-top:15rem}.middle-text{margin-top:60vh}#top-main img{margin-bottom:1rem}#top-main p{text-align:center}#snack-header{margin-left:3vw}#insta-icon{margin-left:48vw}}
+@media all and (min-width:1340px) and (max-width:2000px) {
+    #entireContent {
+        display: none
+    }
+    #middle-h1 {
+        width: 25%;
+        margin-left: 37vw
+    }
+    #insta-icon{
+    margin-left: 48vw;
+
+}
+#main-logo {
+    font-size: 4rem;
+    left: 30vw;
+    top:40%;
+}
+#main-viking-logo {
+    position: absolute;
+    width: 22%;
+    top: 26vh;
+    left: 38vw
+}
+}
+
+@media all and (min-width:1280px) and (max-width:1340px) {
+    #entireContent {
+        display: none
+    }
+    #main-logo {
+        font-size: 4rem;
+        left: 30vw;
+        top:40%;
+    }
+    #main-viking-logo {
+        position: absolute;
+        width: 22%;
+        top: 26vh;
+        left: 38vw
+    }
+/*****/
+#front-six{
+    width:30%;
+    justify-content: space-around;
+    padding: .95%;
+}
+/*****/
+    #front img {
+        width: 33%;   
+    }
+    #front-three {
+        margin-left: 15vw;
+        margin-bottom: 8vh
+    }
+    #middle-h1 {
+        width: 25%;
+        margin-left: 37vw
+    }
+    #insta-icon{
+    margin-left: 48vw;
+
+}
+}
+
+@media all and (min-width:1024px) and (max-width:1280px) {
+    #entireContent {
+        display: none
+    }
+    #top-vl {
+        left: 8vw
+    }
+    #top-menu #top-coffee-text {
+        left: 6.5vw
+    }
+    #top-menu p {
+        left: 4.5vw
+    }
+    #vl {
+        left: 8vw
+    }
+    #menu #coffee-text {
+        left: 5.5vw
+    }
+    #menu p {
+        left: 4.3vw
+    }
+    #main-logo {
+        font-size: 4rem;
+        left: 30vw;
+        top:40%;
+    }
+    #main-viking-logo {
+        position: absolute;
+        width: 25%;
+        top: 24vh;
+        left: 38vw
+    }
+    #welcome {
+        width: 80%;
+        height: 650px;
+        margin-left: 10vw
+    }
+    #main-menu {
+        display: flex;
+        width: 90%;
+        margin-left: 9vw;
+        margin-bottom: 5rem;
+        color: #000
+    }
+    .pimg1 p {
+        width: 33%;
+        margin-top: 5vh
+    }
+        /*****/
+#front-six{
+    width:30%;
+    justify-content: space-around;
+    padding: .95%;
+}
+/*****/
+    #front img {
+        width: 32%;
+    }
+    #front-three {
+        margin-left: 12vw;
+        margin-bottom: 8vh
+    }
+    .coffee-1 {
+        margin-left: 12.5vw;
+        width: 24vw;
+    }
+    .coffee-2 {
+        margin-left: 66vw;
+        width: 24vw;
+    }
+    .smoothie-1 {
+        margin-left: 12.5vw;
+        width: 24vw;
+    }
+    .smoothie-2 {
+        margin-left: 66vw;
+        width: 24vw;
+    }
+    #middle-h1 {
+        width: 25%;
+        margin-left: 37vw;
+    }
+    
+    #insta-icon{
+    margin-left: 48vw;
+
+}
+}
+
+@media all and (min-width:768px) and (max-width:1024px) {
+    #entireContent {
+        display: none;
+    }
+    #top-vl {
+        left: 9vw;
+    }
+    #top-menu #top-coffee-text {
+        left: 7.5vw;
+    }
+    #top-menu p {
+        left: 6.3vw;
+    }
+    #vl {
+        left: 10vw;
+    }
+    #menu #coffee-text {
+        left: 8.5vw;
+    }
+    #menu p {
+        left: 6.3vw;
+    }
+    #main-logo {
+        font-size: 4rem;
+        left: 15vw;
+        top:40%;
+    }
+
+    #main-second {
+        top: 73vh;
+    }
+    #main-viking-logo {
+        position: absolute;
+        width: 35%;
+        top: 26vh;
+        left: 30vw;
+    }
+    #welcome {
+        width: 70%;
+        height: 650px;
+        margin-left: 15vw;
+    }
+    .pimg1 p {
+        width: 36%;
+        margin-top: 1vh;
+    }
+    #main-menu {
+        width: 95%;
+        margin-left: 3.5vw;
+        margin-top: 5vh;
+    }
+    #front {
+        flex-wrap: wrap
+    }
+    #front img {
+        width: 50%
+    }
+    #front-three {
+        margin-left: 1.5vw;
+        margin-bottom: 8vh
+    }
+    .coffee-1 {
+        margin-left: 5.5vw;
+        width: 28vw
+    }
+    .coffee-2 {
+        margin-left: 66vw;
+        width: 30vw
+    }
+    .smoothie-1 {
+        margin-left: 5.5vw;
+        width: 28vw
+    }
+    .smoothie-2 {
+        margin-left: 66vw;
+        width: 30vw
+    }
+    #middle-h1 {
+        width: 25%;
+        margin-left: 37vw;
+    }
+    #bottom #first-p {
+        font-size: 32px;
+        margin-top: 8vh
+    }
+    #bottom #second-p {
+        margin-top: 20vh;
+        width: 40%;
+        margin-left: 1vw
+    }
+    
+    #insta-icon{
+    margin-left: 48vw;
+
+}
+}
+
+@media all and (min-width:480px) and (max-width:768px) {
+        /*****/
+#front-six{
+    width:30%;
+    justify-content: space-around;
+    padding: .95%;
+}
+/*****/
+    h3 {
+        font-size: 3rem;
+    }
+    #entireContent {
+        display: block;
+    }
+    .slide a {
+        font-size: 66px;
+        margin-left: 50px;
+    }
+    #main-logo {
+        font-size: 4rem;
+        left: 14vw;
+        top: 45vh;
+    }
+    #main-second {
+        font-size: 1.75rem;
+        top: 65vh;
+        left: 25vw;
+    }
+    #main-viking-logo {
+        position: absolute;
+        width: 35%;
+        top: 33vh;
+        left: 30vw;
+    }
+    .pimg1 p {
+        width: 46%;
+        margin-top: 0;
+    }
+    #top-menu ul {
+        display: none;
+    }
+    #menu ul {
+        display: none;
+    }
+    #main-menu {
+        width: 105%;
+        margin-left: 0;
+        margin-top: 5vh
+    }
+    #top-menu p {
+        left: 10.3vw
+    }
+    #top-menu #top-coffee-text {
+        top: 6.3vh;
+        left: 12.5vw
+    }
+    #menu p {
+        left: 10.3vw
+    }
+    #menu #coffee-text {
+        top: 4vh;
+        left: 12.5vw
+    }
+    #top-vl {
+        border-left: 1px solid #fff;
+        height: 6vh;
+        position: absolute;
+        left: 12vw;
+        top: 3.2vh
+    }
+    #viking-logo {
+        position: absolute;
+        padding-top: 20px;
+        padding-left: 1.1rem;
+        width: 7vh
+    }
+    #vl {
+        border-left: 1px solid #fff;
+        height: 6vh;
+        position: absolute;
+        left: 12vw;
+        top: 3.5vh
+    }
+    /*****/
+#front-six{
+    width:30%;
+    justify-content: space-around;
+    padding: .95%;
+}
+/*****/
+    #front {
+        flex-wrap: wrap
+    }
+    #front img {
+        width: 50%
+    }
+    #front-three {
+        margin-left: 0;
+        width: 100%;
+        margin-bottom: 8vh
+    }
+    #top-main h1:first-child {
+        font-family: raleway;
+        font-size: 3rem
+    }
+    #welcome {
+        width: 100%;
+        height: 400px;
+        margin-left: 0
+    }
+    #top-main #first-description {
+        font-size: .95rem;
+        width: 80%;
+        padding-left: 10vw;
+        padding-bottom: 2.75rem
+    }
+    .coffee-1 {
+        margin: 0;
+        margin-left: 20px;
+        background-position: 40%;
+        position: relative;
+        width: 90%;
+        height: 55vh
+    }
+    .coffee-2 {
+        margin: 0;
+        margin-top: 71vh;
+        margin-left: 20px;
+        position: absolute;
+        width: 90%;
+        height: 55vh;
+    }
+    #main-menu {
+        display: block;
+        align-items: center;
+        justify-content: center;
+        align-content: center
+    }
+    #main-menu p {
+        padding: 0;
+        margin-bottom: 1px;
+        font-weight: 450;
+        font-size: 19px;
+        margin-left: -50px
+    }
+    #main-menu li {
+        text-align: center;
+        margin-right: 50px;
+        margin-bottom: 40px
+    }
+    .smoothie-1 {
+        margin: 0;
+        margin-left: 20px;
+        background-position: 40%;
+        position: relative;
+        width: 94%;
+        height: 55vh;
+    }
+    .smoothie-2 {
+        margin: 0;
+        margin-top: 50vh;
+        margin-left: 20px;
+        position: absolute;
+        width: 94%;
+        height: 55vh;
+    }
+    #first-drinks {
+        margin-bottom: 70vh;
+    }
+    #bottom #first-p {
+        font-size: 32px;
+        margin-top: 0;
+    }
+    #bottom #second-p {
+        margin-top: 10vh;
+        width: 45%;
+        margin-left: -3vw;
+    }
+    #bottom #third-p {
+        font-size: 30px;
+        margin-top: 5vh;
+        margin-left: 55vw
+    }
+    #bottom #fourth-p {
+        margin-top: 15vh;
+        margin-left: 50vw;
+        width: 40%;
+    }
+    #bottom-img {
+        width: 300px;
+        height: 600px;
+        object-fit: cover;
+        margin-left: 49.6vw
+    }
+    #bottom-imgTwo {
+        width: 50%;
+        height: 400px;
+        object-fit: cover;
+        margin-bottom: 15vh
+    }
+    .outer h1 {
+        font-weight: 300;
+        font-style: normal;
+        font-size: 40px;
+    }
+    .outerTwo {
+        margin-top: 15rem;
+    }
+    .middle-text {
+        margin-top: 60vh;
+    }
+    #top-main img {
+        margin-bottom: 1rem;
+    }
+    #top-main p {
+        text-align: center;
+    }
+    #snack-header {
+        margin-left: 3vw;
+    }
+    #insta-icon{
+    margin-left: 48vw;
+
+}
+}
